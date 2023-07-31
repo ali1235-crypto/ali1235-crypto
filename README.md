@@ -2,9 +2,9 @@
 
 ## I'm a Full Stack Developer, who love to code! 
 
-- 📚 I’m I learned Angular, Javascript, Nodejs(Express), Firebase, MYSQL, .....
+- 📚 I’m I learned Angular, Javascript, Nodejs(Express), Sass, Firebase, MYSQL, .....
 - 📚 I'm currently working on projects to implement what I have learned (MEAN)
-- 📚 I will learn in the future Saas and Aws    
+- 📚 I will learn in the future  Aws    
 - 👯 I’m looking to collaborate with other passionate developers.
 - 🥅 2023 Goals: Master Angular, Complete MEAN Stack. Contribute to Open Source projects.
 - ⚡ Fun fact: I love to make delicious food on my free time & travel new places.
